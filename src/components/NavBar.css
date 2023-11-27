@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.nav {
+  background-color: white;
+  height: 80px;
+  box-shadow: 0px 2.9825618267059326px 7.456404209136963px 0px #0000001A;
+  width:100%;
+}
+.nav img {
+  width: 82.02044677734375px;
+  height: 25.351774215698242px;
+  margin-top: 22px;
+  margin-left: 30px;
+  padding: 0px 0.011740677058696747px 0px 0.012291915714740753px;
+}
